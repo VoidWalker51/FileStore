@@ -1,4 +1,4 @@
-yo# Don't Remove Credit @CodeFlix_Bots, @rohit_1888
+# Don't Remove Credit @CodeFlix_Bots
 # Ask Doubt on telegram @CodeflixSupport
 
 
