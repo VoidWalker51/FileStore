@@ -54,9 +54,7 @@ IS_VERIFY = os.environ.get("IS_VERIFY", "True")
 TUT_VID = os.environ.get("TUT_VID","https://t.me/hwdownload/3")
 
 
-HELP_TXT = "<\n\n❏<b><blockquote>◈ ɴᴇᴛᴡᴏʀᴋ: <a href=https://t.me/Zone_Network>subaru</a>\n◈ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/Erotic_Flix>ᴀᴅᴜʟᴛ ɴᴇᴛᴡᴏʀᴋ</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/VoidisLie>𝓝ꪗₓ</a></blockquote></b>"
-
-ABOUT_TXT = "<b><blockquote>◈ ɴᴇᴛᴡᴏʀᴋ: <a href=https://t.me/Zone_Network>subaru</a>\n◈ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/Erotic_Flix>ᴀᴅᴜʟᴛ ɴᴇᴛᴡᴏʀᴋ</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/VoidisLie>subaru</a></blockquote></b>"
+ABOUT_TXT = "<b><blockquote>◈ Nᴇᴛᴡᴏʀᴋ: <a href=https://t.me/Zone_Network>Zone_Network</a>\n◈ Aᴅᴜʟᴛ 18+: <a href=https://t.me/Erotic_Flix>Erotic_Flix</a>\n◈ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/LazyVoid>𝓝ꪗₓ</a></blockquote></b>"
 
 START_MSG = os.environ.get("START_MESSAGE", "<b><blockquote>ʙᴀᴋᴋᴀᴀᴀ!! {first}\n\n ɪ ᴀᴍ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ, ɪ ᴄᴀɴ sᴛᴏʀᴇ ᴘʀɪᴠᴀᴛᴇ ғɪʟᴇs ɪɴ sᴘᴇᴄɪғɪᴇᴅ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴏᴛʜᴇʀ ᴜsᴇʀs ᴄᴀɴ ᴀᴄᴄᴇss ɪᴛ ғʀᴏᴍ sᴘᴇᴄɪᴀʟ ʟɪɴᴋ.</blockquote></b>")
 try:
